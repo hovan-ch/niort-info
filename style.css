@@ -1,0 +1,110 @@
+.bg-orange {
+    background-color: #ff6600;
+    border: 1px solid #ff6600;
+    color: white;
+
+}
+
+.bg-orange a {
+    color: white
+}
+
+.font-orange {
+    color: #ff6600;
+}
+
+
+.bg-bleu {
+    background-color: #003366;
+    border: 1px solid #003366;
+}
+
+.bg-gris {
+    background-color: rgba(50, 50, 50, 0.5);
+}
+
+.bg-gris h5 {
+    font-size: 150%;
+    color: white;
+}
+
+.bg-gris p {
+    font-size: 150%;
+    color: white;
+}
+
+.bg-marron {
+    background-color: #79621f;
+    border: 1px solid #79621f;
+}
+
+
+.text-blue {
+    color: #003366;
+}
+
+
+#images3 i {
+    font-size: 3rem;
+
+}
+
+#images3 a i {
+    font-size: 3rem;
+    color: white;
+}
+
+#images3 a:hover i {
+    text-shadow: 2px 2px 2px #003366;
+    transition: all 0.5s;
+}
+
+#logo-slogan img {
+    max-width: 100%;
+}
+
+#logo-slogan {
+    border: 30px solid #ff6600;
+}
+
+#description img {
+    box-shadow: 0px 0px 4px #79621f;
+    max-height: 25vh;
+}
+
+#description {
+    color: #79621f;
+
+}
+
+#participation img {
+    max-width: 100%;
+    box-shadow: 0px 0px 10px #003366;
+}
+
+#participation {
+    color: white;
+}
+
+footer {
+    color: white;
+
+}
+
+footer a {
+    color: white;
+    font-size: 2rem;
+    opacity: 0.5;
+    padding: 5px;
+    transition: all 1s;
+}
+
+.btn:hover {
+    opacity: 0.8;
+    transition: all 0.5s;
+}
+#ville img {
+   max-width: 80%;
+   margin: 5px;
+   
+}
