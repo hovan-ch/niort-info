@@ -9,6 +9,7 @@
     color: white
 }
 
+
 .font-orange {
     color: #ff6600;
 }
@@ -43,6 +44,12 @@
     color: #003366;
 }
 
+header img {
+    height: 35px;
+}
+ header {
+    font-weight: 700;
+ }
 
 #images3 i {
     font-size: 3rem;
@@ -61,10 +68,6 @@
 
 #logo-slogan img {
     max-width: 100%;
-}
-
-#logo-slogan {
-    border: 30px solid #ff6600;
 }
 
 #description img {
@@ -100,7 +103,8 @@ footer a {
 }
 
 .btn:hover {
-    opacity: 0.8;
+    background-color: white !important;
+    color:#ff6600 !important;
     transition: all 0.5s;
 }
 #ville img {
